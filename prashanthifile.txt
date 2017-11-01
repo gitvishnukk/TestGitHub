@@ -1,0 +1,1 @@
+DevOps aims to maximize the predictability, efficiency, security, and maintainability of operational processes. Very often, automation supports this objective. ... Many of the ideas (and people) involved in DevOps came from the enterprise systems management and agile software development movements.
